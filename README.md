@@ -1,5 +1,4 @@
 <div align="center">
-
 # 🛒 Lara Store Build
 
 **Enterprise-Ready React E-Commerce Frontend**
@@ -10,10 +9,8 @@
 
 A scalable, high-performance React frontend designed for production,
 enterprise deployment, and seamless backend integration.
-
 </div>
 
----
 
 ## 🧭 Enterprise Overview
 
@@ -55,7 +52,6 @@ This project is suitable for:
 
 ## 📁 Project Architecture
 
-```bash
 lara-store-build/
 ├── build/               # Optimized production build
 ├── public/              # Public assets
@@ -143,7 +139,6 @@ Publish Directory: build
 ---
 
 ▶ Vercel
-
 npm install -g vercel
 vercel
 
@@ -151,7 +146,6 @@ vercel
 ---
 
 ▶ GitHub Pages
-
 npm install gh-pages --save-dev
 npm run deploy
 
@@ -159,7 +153,6 @@ npm run deploy
 ---
 
 🔗 Backend Integration (Laravel)
-
 Designed for headless backend architecture.
 
 npm run build
@@ -193,20 +186,16 @@ Laravel Sanctum / Passport
 ---
 
 👤 Maintainer
-
 MOMONPXL 
 
 
 ---
 
 📜 License
-
 Licensed under the MIT License.
 Free to use, modify, and distribute.
 
 
 ---
-
 <div align="center">⭐ Built for scale. Designed for production.
-
 </div>
