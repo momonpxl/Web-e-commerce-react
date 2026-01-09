@@ -51,7 +51,7 @@ This project is suitable for:
 ---
 
 ## 📁 Project Architecture
-
+```bash
 lara-store-build/
 ├── build/               # Optimized production build
 ├── public/              # Public assets
@@ -62,7 +62,7 @@ lara-store-build/
 │   └── assets/          # Static resources
 ├── package.json
 └── README.md
-
+```
 
 ---
 
@@ -72,7 +72,7 @@ lara-store-build/
 https://i.ibb.co/ZRVgzBZ2/f3038be6db88.jpg
 
 
-
+```bash
 [ Add your screenshots here ]
 /screenshots
  ├── homepage.png
@@ -83,7 +83,7 @@ https://i.ibb.co/ZRVgzBZ2/f3038be6db88.jpg
 ![Homepage](screenshots/homepage.png)
 ![Product List](screenshots/product-list.png)
 ![Product Detail](screenshots/product-detail.png)
-
+```
 
 ---
 
